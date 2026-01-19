@@ -116,6 +116,7 @@ def main():
     # Load previously seen licenses
     seen_data = load_seen_licenses()
     seen_licenses = set(seen_data["licenses"])
+    is_first_run = len(seen_licenses) == 0
 
     # Scrape current licenses
     try:
@@ -124,7 +125,7 @@ def main():
     except Exception as e:
         error_msg = f"Scraping failed: {e}"
         print(error_msg)
-        send_telegram_message(f"⚠️ Anjouan Scraper Error: {error_msg}")
+        send_telegram_message(f"Anjouan Scraper Error: {error_msg}")
         return
 
     # Find new licenses
@@ -136,12 +137,18 @@ def main():
 
     print(f"Found {len(new_licenses)} new licenses")
 
-    # Send notifications for new licenses
-    if new_licenses:
+    # Handle first run differently - just save baseline, don't spam
+    if is_first_run:
+        print("First run - saving baseline without notifications")
+        send_telegram_message(
+            f"<b>Anjouan Scraper Initialized</b>\n"
+            f"Baseline: {len(current_licenses)} licenses tracked\n"
+            f"You'll be notified of new licenses from now on."
+        )
+    elif new_licenses:
         # Send summary first
-        summary = f"🎰 <b>{len(new_licenses)} New Anjouan License(s) Found!</b>\n"
-        summary += f"Time: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n"
-        summary += "─" * 20
+        summary = f"<b>{len(new_licenses)} New Anjouan License(s)!</b>\n"
+        summary += f"{datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}"
         send_telegram_message(summary)
 
         # Send each new license
