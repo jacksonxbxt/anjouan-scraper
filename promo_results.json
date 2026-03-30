@@ -2,58 +2,58 @@
   {
     "name": "Instant Casino",
     "url": "https://www.instantcasino.com/promotions",
-    "status": "success",
+    "status": "error",
     "promos": [],
-    "raw_text": "We're not available in your region\nIf you believe that you are seeing this message in error, please ensure you have disabled your VPN or contact support at: support@instantcasino.com\nJoin Our Community\nYou are 1 step away from joining our community on Telegram.\nGet direct access to our dedicated team and be first to know about the latest promotions, exclusive bonuses, and much more.\nSign Up",
-    "scraped_at": "2026-03-29T08:32:55.310442+00:00"
+    "raw_text": "Timeout 20000ms exceeded.",
+    "scraped_at": "2026-03-30T09:05:10.463442+00:00"
   },
   {
     "name": "24Slots",
     "url": "https://24slots.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "24slots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e3d8730dd534d2c\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-03-29T08:33:00.068495+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-03-30T09:05:42.515379+00:00"
   },
   {
     "name": "PalmSlots",
     "url": "https://palmslots.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e3d877cea71e1d3\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-03-29T08:33:12.326152+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-03-30T09:05:53.868179+00:00"
   },
   {
     "name": "Dolfwin",
     "url": "https://dolfwin.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "dolfwin.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e3d87cb8ed44d2c\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-03-29T08:33:24.644655+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-03-30T09:06:05.596382+00:00"
   },
   {
     "name": "OlympusBet",
     "url": "https://olympusbet.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e3d8816ec31de7e\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-03-29T08:33:36.867678+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-03-30T09:06:17.127146+00:00"
   },
   {
     "name": "Dream.bet",
     "url": "https://dream.bet/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e3d88652815608d\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-03-29T08:33:49.170156+00:00"
+    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e45f59a9cc6d025\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-03-30T09:06:28.620344+00:00"
   },
   {
     "name": "FestivalPlay",
     "url": "https://festivalplay.com/promotions",
-    "status": "geo_blocked",
+    "status": "success",
     "promos": [],
-    "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-03-29T08:34:01.667267+00:00"
+    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e45f5e54cd3eb21\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-03-30T09:06:40.987144+00:00"
   },
   {
     "name": "Bety",
@@ -61,7 +61,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "bety.com\nThis domain name is for sale!\nUppercase\nGet this domain now\nVerified Domain\n$ USD\n€ EUR\n¥ CNY\nC$ CAD\nMX$ MXN\n£ GBP\nR$ BRL\nRs. INR\nRp IDR\nAU$ AUD\n \nBuy Now\n$217,018.50\nBuy Now\nAccepted payment methods:\nMore\nNeed Help?\nContact Dynadot\nFast, Easy and Secure Transfers\nTop-tier Domain Security\n24/7 Customer Service\nEN",
-    "scraped_at": "2026-03-29T08:34:13.195053+00:00"
+    "scraped_at": "2026-03-30T09:06:53.165425+00:00"
   },
   {
     "name": "Eagle777",
@@ -69,7 +69,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "Sign in\n\nDon't have an account?  Create account\n\nGoogle\nFacebook\nOR\nUserName or Phone Number\n​\nPassword\nShow\n​\nForgot Password\nSign In\n\nWe offer the best\n\nSlot Games\n\nWe offer the best\n\nLive Games\n\n",
-    "scraped_at": "2026-03-29T08:34:19.064929+00:00"
+    "scraped_at": "2026-03-30T09:06:58.818313+00:00"
   },
   {
     "name": "InterCasino",
@@ -77,23 +77,23 @@
     "status": "success",
     "promos": [],
     "raw_text": "We use Cookies to tailor your experience on our website and improve the services we provide to you. You can find out what Cookies we use and how to manage your Cookie preferences in our Cookie Policy.\n\nOkay\nOur casino bonuses\n\nEveryone enjoys a good bonus, and we at InterCasino are no different. We’re proud to offer our players a wide variety of bonus options, starting with our Welcome Offer. When you play at InterCasino, you may also get the chance to enjoy Free Spins, Spin Credits, and more. We’ll provide you with all the information you need, but don’t forget to check the terms and conditions for each individual bonus you enjoy.\n\nMany casinos have complicated bonus rules, but we prefer to get straight to the point and make life easier for everyone.\n\nTo start with, your cash and bonus balances will always be stored separately and marked clearly. Cash funds will always be used first when you play, but bonus funds can be seen as your second chance- it will come into play when you have no cash left.\n\nYou are always free to withdraw any cash in your account, however any remaining bonus balance will be forfeit if you do so. You may convert a bonus into cash by meeting its specific wagering requirements.\n\nFeel free to take a look at our easy examples below for more information:\n\nExample one\nExample two\nHow to wager\nBonus types\n\nOur casino bonuses\n\nEveryone enjoys a good bonus, and we at InterCasino are no different. We’re proud to offer our players a wide variety of bonus options, starting with our Welcome Offer. When you play at InterCasino, you may also get the chance to enjoy Free Spins, Spin Credits, and more. We’ll provide you with all the information you need, but don’t forget to check the terms and conditions for each individual bonus you enjoy.\n\nMany casinos have complicated bonus rules, but we prefer to get straight to the point and make life easier for everyone.\n\nTo start with, your cash and bonus balances will always be stored separately and marked clearly. Cash funds will always be used first when you play, but bonus funds can be seen as your second chance- it will come into play when you have no cash left.\n\nYou are always free to withdraw any cash in your account, however any remaining bonus balance will be forfeit if you do so. You may convert a bonus into cash by meeting its specific wagering requirements.\n\nFeel free to take a look at our easy examples below for more information:\n\nExample one\nExample two\nHow to wager\nBonus types\n\nWe use Cookies to tailor your experience on our website and improve the services we provide to you. You can find out what Cookies we use and how to manage your Cookie preferences in our Cookie Policy.\n\nOkay\n\n",
-    "scraped_at": "2026-03-29T08:34:32.036708+00:00"
+    "scraped_at": "2026-03-30T09:07:11.654020+00:00"
   },
   {
     "name": "BookOfCasino",
     "url": "https://bookofcasino.net/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "bookofcasino.net\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e3d899c5c64f51e\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-03-29T08:34:39.160878+00:00"
+    "raw_text": "bookofcasino.net\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e45f6d2bec2cce5\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-03-30T09:07:18.898251+00:00"
   },
   {
     "name": "VegasDukes",
     "url": "https://vegasdukes.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e3d89e849341855\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-03-29T08:34:51.366192+00:00"
+    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e45f71f9867ab58\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-03-30T09:07:31.092831+00:00"
   },
   {
     "name": "Pinnacle Casino",
@@ -101,15 +101,15 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-03-29T08:35:03.601039+00:00"
+    "scraped_at": "2026-03-30T09:07:43.278938+00:00"
   },
   {
     "name": "StarBets",
     "url": "https://starbets.io/bonus",
     "status": "success",
     "promos": [],
-    "raw_text": "BONUSES\n\nRewards\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nRakeback\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Cashback Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Referral Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Dividends\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n100% Deposit Match Bonus\nMore Info\nMin Deposit:\n$10.00 USD\nMax Bonus:\n$1000.00 USD\nLOG IN\nBack\n100% Deposit Match Bonus\nRules\nThe wager of 30X is required in order to collect the bonus.\nIn-House games have a coefficient of 0.2.\nOnly betting in certain games will be counted towards the required wager.\nOnly bets between $0.1 USD and $10 USD will be counted towards the required wager.\nOnly bets in the bonus currency will be counted towards the required wager.\nAdditional deposits can be made in order to reach the required wager.\nOnce the required wager is reached, the bonus will be available for collection.\nIf the required wager is not reached before expiration time or if the bonus is not collected before expiration time, the bonus will be lost.\nCANCEL\nbonus.title\nbonus.body\nSHOW MORE\n\nRewards\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nRakeback\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Cashback Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Referral Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Dividends\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n100% Deposit Match Bonus\nMore Info\nMin Deposit:\n$10.00 USD\nMax Bonus:\n$1000.00 USD\nLOG IN\nBack\n100% Deposit Match Bonus\nRules\nThe wager of 30X is required in order to collect the bonus.\nIn-House games have a coefficient of 0.2.\nOnly betting in certain games will be counted towards the required wager.\nOnly bets between $0.1 USD and $10 USD will be counted towards the required wager.\nOnly bets in the bonus currency will be counted towards the required wager.\nAdditional deposits can be made in order to reach the required wager.\nOnce the required wager is reached, the bonus will be available for collection.\nIf the required wager is not reached before expiration time or if the bonus is not collected before expiration time, the bonus will be lost.\nCANCEL\nbonus.title\nbonus.body\nSHOW MORE\n\n",
-    "scraped_at": "2026-03-29T08:35:06.976010+00:00"
+    "raw_text": "starbets.io\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: 9e45f747293e760e\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-03-30T09:07:46.387190+00:00"
   },
   {
     "name": "Sikwin",
@@ -117,6 +117,6 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-03-29T08:35:20.062166+00:00"
+    "scraped_at": "2026-03-30T09:07:58.619079+00:00"
   }
 ]
