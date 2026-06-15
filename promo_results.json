@@ -2,58 +2,58 @@
   {
     "name": "Instant Casino",
     "url": "https://www.instantcasino.com/promotions",
-    "status": "error",
+    "status": "success",
     "promos": [],
-    "raw_text": "Timeout 20000ms exceeded.",
-    "scraped_at": "2026-06-14T10:45:02.347124+00:00"
+    "raw_text": "We're not available in your region\nIf you believe that you are seeing this message in error, please ensure you have disabled your VPN or contact support at: support@instantcasino.com\nJoin Our Community\nYou are 1 step away from joining our community on Telegram.\nGet direct access to our dedicated team and be first to know about the latest promotions, exclusive bonuses, and much more.\nSign Up",
+    "scraped_at": "2026-06-15T13:48:33.246643+00:00"
   },
   {
     "name": "24Slots",
     "url": "https://24slots.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "24slots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0b8bf287f996c54\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-06-14T10:45:34.287155+00:00"
+    "raw_text": "24slots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0c208b38f36231b\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-06-15T13:48:38.303192+00:00"
   },
   {
     "name": "PalmSlots",
     "url": "https://palmslots.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0b8bf744e99cc3a\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-06-14T10:45:46.532646+00:00"
+    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0c20902594ec959\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-06-15T13:48:50.620456+00:00"
   },
   {
     "name": "Dolfwin",
     "url": "https://dolfwin.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "dolfwin.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0b8bfbf9e8f1497\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-06-14T10:45:58.840396+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-06-15T13:49:03.475404+00:00"
   },
   {
     "name": "OlympusBet",
     "url": "https://olympusbet.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0b8c00edc7f17d6\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-06-14T10:46:11.072963+00:00"
+    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0c2099b6ef1f83f\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-06-15T13:49:15.811601+00:00"
   },
   {
     "name": "Dream.bet",
     "url": "https://dream.bet/promotions",
-    "status": "geo_blocked",
+    "status": "success",
     "promos": [],
-    "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-06-14T10:46:23.323323+00:00"
+    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0c209e8c876870e\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-06-15T13:49:27.993943+00:00"
   },
   {
     "name": "FestivalPlay",
     "url": "https://festivalplay.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0b8c0a2ccc7ae13\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-06-14T10:46:35.148422+00:00"
+    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0c20a367cec1046\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-06-15T13:49:40.204518+00:00"
   },
   {
     "name": "Bety",
@@ -61,7 +61,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "bety.com\nThis domain name is for sale!\nUppercase\nGet this domain now\nVerified Domain\n$ USD\n€ EUR\n¥ CNY\nC$ CAD\nMX$ MXN\n£ GBP\nR$ BRL\nRs. INR\nRp IDR\nAU$ AUD\n฿ THB\n₱ PHP\n₩ KRW\nHK$ HKD\n \nBuy Now\n$221,517.00\nBuy Now\nAccepted payment methods:\nMore\nNeed Help?\nContact Dynadot\nFast, Easy and Secure Transfers\nTop-tier Domain Security\n24/7 Customer Service\nEN",
-    "scraped_at": "2026-06-14T10:46:47.395942+00:00"
+    "scraped_at": "2026-06-15T13:49:52.438063+00:00"
   },
   {
     "name": "Eagle777",
@@ -69,7 +69,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "Sign in\n\nDon't have an account?  Create account\n\nGoogle\nFacebook\nOR\nUserName or Phone Number\n​\nPassword\nShow\n​\nForgot Password\nSign In\n\nWe offer the best\n\nSlot Games\n\nWe offer the best\n\nLive Games\n\n",
-    "scraped_at": "2026-06-14T10:46:53.373163+00:00"
+    "scraped_at": "2026-06-15T13:49:58.289730+00:00"
   },
   {
     "name": "InterCasino",
@@ -77,7 +77,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "We use Cookies to tailor your experience on our website and improve the services we provide to you. You can find out what Cookies we use and how to manage your Cookie preferences in our Cookie Policy.\n\nOkay\nOur casino bonuses\n\nEveryone enjoys a good bonus, and we at InterCasino are no different. We’re proud to offer our players a wide variety of bonus options, starting with our Welcome Offer. When you play at InterCasino, you may also get the chance to enjoy Free Spins, Spin Credits, and more. We’ll provide you with all the information you need, but don’t forget to check the terms and conditions for each individual bonus you enjoy.\n\nMany casinos have complicated bonus rules, but we prefer to get straight to the point and make life easier for everyone.\n\nTo start with, your cash and bonus balances will always be stored separately and marked clearly. Cash funds will always be used first when you play, but bonus funds can be seen as your second chance- it will come into play when you have no cash left.\n\nYou are always free to withdraw any cash in your account, however any remaining bonus balance will be forfeit if you do so. You may convert a bonus into cash by meeting its specific wagering requirements.\n\nFeel free to take a look at our easy examples below for more information:\n\nExample one\nExample two\nHow to wager\nBonus types\n\nOur casino bonuses\n\nEveryone enjoys a good bonus, and we at InterCasino are no different. We’re proud to offer our players a wide variety of bonus options, starting with our Welcome Offer. When you play at InterCasino, you may also get the chance to enjoy Free Spins, Spin Credits, and more. We’ll provide you with all the information you need, but don’t forget to check the terms and conditions for each individual bonus you enjoy.\n\nMany casinos have complicated bonus rules, but we prefer to get straight to the point and make life easier for everyone.\n\nTo start with, your cash and bonus balances will always be stored separately and marked clearly. Cash funds will always be used first when you play, but bonus funds can be seen as your second chance- it will come into play when you have no cash left.\n\nYou are always free to withdraw any cash in your account, however any remaining bonus balance will be forfeit if you do so. You may convert a bonus into cash by meeting its specific wagering requirements.\n\nFeel free to take a look at our easy examples below for more information:\n\nExample one\nExample two\nHow to wager\nBonus types\n\nWe use Cookies to tailor your experience on our website and improve the services we provide to you. You can find out what Cookies we use and how to manage your Cookie preferences in our Cookie Policy.\n\nOkay\n\n",
-    "scraped_at": "2026-06-14T10:47:06.285908+00:00"
+    "scraped_at": "2026-06-15T13:50:11.097492+00:00"
   },
   {
     "name": "BookOfCasino",
@@ -85,15 +85,15 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-06-14T10:47:13.949294+00:00"
+    "scraped_at": "2026-06-15T13:50:19.183973+00:00"
   },
   {
     "name": "VegasDukes",
     "url": "https://vegasdukes.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0b8c1e19f8ee1db\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-06-14T10:47:25.654325+00:00"
+    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0c20b76fe42223e\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-06-15T13:50:31.614171+00:00"
   },
   {
     "name": "Pinnacle Casino",
@@ -101,22 +101,22 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-06-14T10:47:38.133378+00:00"
+    "scraped_at": "2026-06-15T13:50:43.869615+00:00"
   },
   {
     "name": "StarBets",
     "url": "https://starbets.io/bonus",
     "status": "success",
     "promos": [],
-    "raw_text": "starbets.io\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0b8c22598481e1a\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-06-14T10:47:41.624234+00:00"
+    "raw_text": "Web server is returning an unknown error Error code 520\nVisit cloudflare.com for more information.\n2026-06-15 13:50:48 UTC\nYou\nBrowser\nWorking\nChicago\nCloudflare\nWorking\nstarbets.io\nHost\nError\nWhat happened?\n\nThere is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.\n\nWhat can I do?\nIf you are a visitor of this website:\n\nPlease try again in a few minutes.\n\nIf you are the owner of this website:\n\nThere is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team. Please include the Ray ID (which is at the bottom of this error page). Additional troubleshooting resources.\n\nCloudflare Ray ID: a0c20bbfa8fb2145 • Your IP: Click to reveal • Performance & security by Cloudflare",
+    "scraped_at": "2026-06-15T13:50:48.203190+00:00"
   },
   {
     "name": "Sikwin",
     "url": "https://sikwin.com/promotions",
-    "status": "geo_blocked",
+    "status": "success",
     "promos": [],
-    "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-06-14T10:47:53.851433+00:00"
+    "raw_text": "sikwin18.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a0c20c075eeab7ac\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-06-15T13:50:53.004844+00:00"
   }
 ]
