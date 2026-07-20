@@ -2,58 +2,58 @@
   {
     "name": "Instant Casino",
     "url": "https://www.instantcasino.com/promotions",
-    "status": "error",
+    "status": "success",
     "promos": [],
-    "raw_text": "Timeout 20000ms exceeded.",
-    "scraped_at": "2026-07-19T09:46:07.934257+00:00"
+    "raw_text": "We're not available in your region\nIf you believe that you are seeing this message in error, please ensure you have disabled your VPN or contact support at: support@instantcasino.com\nJoin Our Community\nYou are 1 step away from joining our community on Telegram.\nGet direct access to our dedicated team and be first to know about the latest promotions, exclusive bonuses, and much more.\nSign Up",
+    "scraped_at": "2026-07-20T10:43:37.386804+00:00"
   },
   {
     "name": "24Slots",
     "url": "https://24slots.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "24slots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1d8cd1e6bfde81d\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-19T09:46:39.851252+00:00"
+    "raw_text": "24slots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e15de83d2dc960\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:43:42.345274+00:00"
   },
   {
     "name": "PalmSlots",
     "url": "https://palmslots.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1d8cd6ab85aaa0b\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-19T09:46:52.220735+00:00"
+    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e15e588f21ccb9\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:43:54.614202+00:00"
   },
   {
     "name": "Dolfwin",
     "url": "https://dolfwin.com/promotions",
-    "status": "minimal_content",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "",
-    "scraped_at": "2026-07-19T09:47:04.531795+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-07-20T10:44:06.945923+00:00"
   },
   {
     "name": "OlympusBet",
     "url": "https://olympusbet.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1d8ce0468dce811\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-19T09:47:16.857350+00:00"
+    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e15ef08c0c0628\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:44:18.736527+00:00"
   },
   {
     "name": "Dream.bet",
     "url": "https://dream.bet/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1d8ce52fc915c93\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-19T09:47:29.184172+00:00"
+    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e15f3d0a1d88fc\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:44:31.068921+00:00"
   },
   {
     "name": "FestivalPlay",
     "url": "https://festivalplay.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1d8cea13d1e49d8\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-19T09:47:41.790570+00:00"
+    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e15f89effc5414\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:44:43.453286+00:00"
   },
   {
     "name": "Bety",
@@ -61,7 +61,7 @@
     "status": "error",
     "promos": [],
     "raw_text": "net::ERR_NAME_NOT_RESOLVED at https://www.bety.com/bonus",
-    "scraped_at": "2026-07-19T09:47:54.100284+00:00"
+    "scraped_at": "2026-07-20T10:44:55.648254+00:00"
   },
   {
     "name": "Eagle777",
@@ -69,7 +69,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "Sign in\n\nDon't have an account?  Create account\n\nGoogle\nFacebook\nOR\nUserName or Phone Number\n​\nPassword\nShow\n​\nForgot Password\nSign In\n\nWe offer the best\n\nSlot Games\n\nWe offer the best\n\nLive Games\n\n",
-    "scraped_at": "2026-07-19T09:48:16.181496+00:00"
+    "scraped_at": "2026-07-20T10:45:17.737141+00:00"
   },
   {
     "name": "InterCasino",
@@ -77,23 +77,23 @@
     "status": "success",
     "promos": [],
     "raw_text": "It looks like nothing was found at this location. Please use the search box to locate the content you were looking for.\n\nSearch for:\n\nIt looks like nothing was found at this location. Please use the search box to locate the content you were looking for.\n\nSearch for:\n\nIt looks like nothing was found at this location. Please use the search box to locate the content you were looking for.\n\nSearch for:\n\nIt looks like nothing was found at this location. Please use the search box to locate the content you were looking for.\n\nSearch for:\n\n",
-    "scraped_at": "2026-07-19T09:48:29.304972+00:00"
+    "scraped_at": "2026-07-20T10:45:30.375892+00:00"
   },
   {
     "name": "BookOfCasino",
     "url": "https://bookofcasino.net/promotions",
-    "status": "minimal_content",
+    "status": "success",
     "promos": [],
-    "raw_text": "",
-    "scraped_at": "2026-07-19T09:48:42.595211+00:00"
+    "raw_text": "bookofcasino.net\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e160df2df2cce6\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:45:43.766186+00:00"
   },
   {
     "name": "VegasDukes",
     "url": "https://vegasdukes.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1d8d0686e957514\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-19T09:48:54.871997+00:00"
+    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e1614f28f2c960\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:45:55.944569+00:00"
   },
   {
     "name": "Pinnacle Casino",
@@ -101,22 +101,22 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-07-19T09:49:07.142337+00:00"
+    "scraped_at": "2026-07-20T10:46:08.139033+00:00"
   },
   {
     "name": "StarBets",
     "url": "https://starbets.io/bonus",
     "status": "success",
     "promos": [],
-    "raw_text": "StarBets.io has permanently shut down.\nAll services are discontinued.\nFor any remaining inquiries, contact support@starbets.io.",
-    "scraped_at": "2026-07-19T09:49:10.451779+00:00"
+    "raw_text": "starbets.io\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e161751d86b4a5\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:46:11.990445+00:00"
   },
   {
     "name": "Sikwin",
     "url": "https://sikwin.com/promotions",
-    "status": "geo_blocked",
+    "status": "success",
     "promos": [],
-    "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-07-19T09:49:23.487336+00:00"
+    "raw_text": "sikwin18.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a1e161c46a19d6bc\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-07-20T10:46:24.184855+00:00"
   }
 ]
