@@ -5,55 +5,55 @@
     "status": "success",
     "promos": [],
     "raw_text": "We're not available in your region\nIf you believe that you are seeing this message in error, please ensure you have disabled your VPN or contact support at: support@instantcasino.com\nJoin Our Community\nYou are 1 step away from joining our community on Telegram.\nGet direct access to our dedicated team and be first to know about the latest promotions, exclusive bonuses, and much more.\nSign Up",
-    "scraped_at": "2026-07-27T11:12:14.235250+00:00"
+    "scraped_at": "2026-07-28T10:26:55.095535+00:00"
   },
   {
     "name": "24Slots",
     "url": "https://24slots.com/promotions",
-    "status": "success",
+    "status": "error",
     "promos": [],
-    "raw_text": "24slots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b3571f9465042\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:12:19.187375+00:00"
+    "raw_text": "Timeout 20000ms exceeded.",
+    "scraped_at": "2026-07-28T10:26:59.917936+00:00"
   },
   {
     "name": "PalmSlots",
     "url": "https://palmslots.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b35be299cb268\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:12:31.387486+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-07-28T10:27:31.332546+00:00"
   },
   {
     "name": "Dolfwin",
     "url": "https://dolfwin.com/promotions",
-    "status": "success",
+    "status": "error",
     "promos": [],
-    "raw_text": "dolfwin.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b360b2d53f36e\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:12:43.683033+00:00"
+    "raw_text": "Timeout 20000ms exceeded.",
+    "scraped_at": "2026-07-28T10:27:42.548800+00:00"
   },
   {
     "name": "OlympusBet",
     "url": "https://olympusbet.com/promotions",
-    "status": "success",
+    "status": "error",
     "promos": [],
-    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b3657acd61ee7\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:12:55.924194+00:00"
+    "raw_text": "Timeout 20000ms exceeded.",
+    "scraped_at": "2026-07-28T10:28:13.901472+00:00"
   },
   {
     "name": "Dream.bet",
     "url": "https://dream.bet/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b36c81ebbd6a5\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:13:08.114094+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-07-28T10:28:45.835114+00:00"
   },
   {
     "name": "FestivalPlay",
     "url": "https://festivalplay.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b36f09a525042\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:13:20.288611+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-07-28T10:28:57.527404+00:00"
   },
   {
     "name": "Bety",
@@ -61,7 +61,7 @@
     "status": "error",
     "promos": [],
     "raw_text": "net::ERR_NAME_NOT_RESOLVED at https://www.bety.com/bonus",
-    "scraped_at": "2026-07-27T11:13:32.552948+00:00"
+    "scraped_at": "2026-07-28T10:29:09.085764+00:00"
   },
   {
     "name": "Eagle777",
@@ -69,7 +69,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "Sign in\n\nDon't have an account?  Create account\n\nGoogle\nFacebook\nOR\nUserName or Phone Number\n​\nPassword\nShow\n​\nForgot Password\nSign In\n\nWe offer the best\n\nSlot Games\n\nWe offer the best\n\nLive Games\n\n",
-    "scraped_at": "2026-07-27T11:13:54.646118+00:00"
+    "scraped_at": "2026-07-28T10:29:31.175526+00:00"
   },
   {
     "name": "InterCasino",
@@ -77,23 +77,23 @@
     "status": "minimal_content",
     "promos": [],
     "raw_text": "404 Not Found. We can not find the page you are looking for.",
-    "scraped_at": "2026-07-27T11:14:07.194208+00:00"
+    "scraped_at": "2026-07-28T10:29:43.931129+00:00"
   },
   {
     "name": "BookOfCasino",
     "url": "https://bookofcasino.net/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "bookofcasino.net\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b383afeafff80\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:14:12.338404+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-07-28T10:29:49.421222+00:00"
   },
   {
     "name": "VegasDukes",
     "url": "https://vegasdukes.com/promotions",
-    "status": "success",
+    "status": "minimal_content",
     "promos": [],
-    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a21b38827c1e5042\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-07-27T11:14:24.595227+00:00"
+    "raw_text": "401 Unauthorized\n",
+    "scraped_at": "2026-07-28T10:30:00.998105+00:00"
   },
   {
     "name": "Pinnacle Casino",
@@ -101,7 +101,7 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-07-27T11:14:36.862357+00:00"
+    "scraped_at": "2026-07-28T10:30:05.815807+00:00"
   },
   {
     "name": "StarBets",
@@ -109,7 +109,7 @@
     "status": "success",
     "promos": [],
     "raw_text": "BONUSES\n\nRewards\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nRakeback\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Cashback Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Referral Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Dividends\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n100% Deposit Match Bonus\nMore Info\nMin Deposit:\n$10.00 USD\nMax Bonus:\n$1000.00 USD\nLOG IN\nBack\n100% Deposit Match Bonus\nRules\nThe wager of 30X is required in order to collect the bonus.\nIn-House games have a coefficient of 0.2.\nOnly betting in certain games will be counted towards the required wager.\nOnly bets between $0.1 USD and $10 USD will be counted towards the required wager.\nOnly bets in the bonus currency will be counted towards the required wager.\nAdditional deposits can be made in order to reach the required wager.\nOnce the required wager is reached, the bonus will be available for collection.\nIf the required wager is not reached before expiration time or if the bonus is not collected before expiration time, the bonus will be lost.\nCANCEL\nbonus.title\nbonus.body\nSHOW MORE\n\nRewards\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nRakeback\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Cashback Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Referral Balance\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n\nPLEASE LOG IN\n\nTo see more info\nLog In\n\nMy Dividends\n\nBalance\n\n0.00\n\nCollected\n\n0.00\nCollect\n100% Deposit Match Bonus\nMore Info\nMin Deposit:\n$10.00 USD\nMax Bonus:\n$1000.00 USD\nLOG IN\nBack\n100% Deposit Match Bonus\nRules\nThe wager of 30X is required in order to collect the bonus.\nIn-House games have a coefficient of 0.2.\nOnly betting in certain games will be counted towards the required wager.\nOnly bets between $0.1 USD and $10 USD will be counted towards the required wager.\nOnly bets in the bonus currency will be counted towards the required wager.\nAdditional deposits can be made in order to reach the required wager.\nOnce the required wager is reached, the bonus will be available for collection.\nIf the required wager is not reached before expiration time or if the bonus is not collected before expiration time, the bonus will be lost.\nCANCEL\nbonus.title\nbonus.body\nSHOW MORE\n\n",
-    "scraped_at": "2026-07-27T11:14:42.293171+00:00"
+    "scraped_at": "2026-07-28T10:30:09.719695+00:00"
   },
   {
     "name": "Sikwin",
@@ -117,6 +117,6 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-07-27T11:14:55.589190+00:00"
+    "scraped_at": "2026-07-28T10:30:23.009781+00:00"
   }
 ]
