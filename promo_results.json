@@ -2,58 +2,58 @@
   {
     "name": "Instant Casino",
     "url": "https://www.instantcasino.com/promotions",
-    "status": "success",
+    "status": "error",
     "promos": [],
-    "raw_text": "We're not available in your region\nIf you believe that you are seeing this message in error, please ensure you have disabled your VPN or contact support at: support@instantcasino.com\nJoin Our Community\nYou are 1 step away from joining our community on Telegram.\nGet direct access to our dedicated team and be first to know about the latest promotions, exclusive bonuses, and much more.\nSign Up",
-    "scraped_at": "2026-08-22T08:19:19.313316+00:00"
+    "raw_text": "Timeout 20000ms exceeded.",
+    "scraped_at": "2026-08-23T08:20:47.540082+00:00"
   },
   {
     "name": "24Slots",
     "url": "https://24slots.com/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "24slots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f073e89ad1042c\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-08-22T08:19:24.291593+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-08-23T08:21:19.191999+00:00"
   },
   {
     "name": "PalmSlots",
     "url": "https://palmslots.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f074347b5ef497\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-08-22T08:19:36.521987+00:00"
+    "raw_text": "palmslots.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f8b45ba9096abb\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-08-23T08:21:30.392460+00:00"
   },
   {
     "name": "Dolfwin",
     "url": "https://dolfwin.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "\n\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t        \n        \n            ×\n        \n    \t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n        Do you want to proceed without the bonus code?\n\n    \t\t\t\t\t\t\t\n\t\t\t                \n                            Go back\n        Continue\n                    \n\t\t\t\t\t\n\t\n\n",
-    "scraped_at": "2026-08-22T08:19:48.725397+00:00"
+    "raw_text": "dolfwin.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f8b4cccca8e892\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-08-23T08:21:42.695227+00:00"
   },
   {
     "name": "OlympusBet",
     "url": "https://olympusbet.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f074ff3f4515d4\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-08-22T08:20:08.963428+00:00"
+    "raw_text": "olympusbet.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f8b4f58974acfc\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-08-23T08:21:54.983216+00:00"
   },
   {
     "name": "Dream.bet",
     "url": "https://dream.bet/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f0754baf3133ed\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-08-22T08:20:21.252317+00:00"
+    "raw_text": "dream.bet\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f8b5419f994c93\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-08-23T08:22:07.243569+00:00"
   },
   {
     "name": "FestivalPlay",
     "url": "https://festivalplay.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f0759729c960d0\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-08-22T08:20:33.460570+00:00"
+    "raw_text": "festivalplay.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f8b590a9a2348b\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-08-23T08:22:19.465014+00:00"
   },
   {
     "name": "Bety",
@@ -61,15 +61,15 @@
     "status": "error",
     "promos": [],
     "raw_text": "net::ERR_NAME_NOT_RESOLVED at https://www.bety.com/bonus",
-    "scraped_at": "2026-08-22T08:20:45.710191+00:00"
+    "scraped_at": "2026-08-23T08:22:34.286982+00:00"
   },
   {
     "name": "Eagle777",
     "url": "https://eagle777.com/promotions",
     "status": "success",
     "promos": [],
-    "raw_text": "Error extracting text: Timeout 15000ms exceeded.\n=========================== logs ===========================\n\"load\" event fired\n============================================================",
-    "scraped_at": "2026-08-22T08:21:07.242508+00:00"
+    "raw_text": "Daily rewards, free to claim\n\nCheck-in, cashback, VIP perks — sign up to claim\n\nSign up now\nDeposit bonuses\n\n20% Recharge Bonus\n\n20% Recharge Bonus\n\nFirst Deposit\n\nFirst Deposit\nRegular rewards\n\nDaily free GC + EC. Complete a 7-day streak to earn an extra 5.00 EC.\n\nDaily Check-In\n\nEvery bet pays back\n\nRakeback\n\nWeekly cashback based on a percentage of net losses. The higher your VIP level, the higher your cashback rate.\n\nVIP Weekly Cashback\n\nIn addition to the weekly cashback, receive an extra monthly cashback based on your monthly net losses.\n\nVIP Monthly Cashback\n\nOne-time reward each time you level up.\n\nLevel-up reward\n\nGot a code? Claim it\n\nRedeem code\nMore rewards\nVIP Club\nCashback & level-up gifts\nInvite friends\nYou both get rewarded\nTournaments\nClimb boards, win pools\nFAQ\nHow do I claim?\nWhich wallet do rewards go to?\nHow does wagering work?\nDo rewards expire?\nWhy the countdown on the welcome offer?\nRakeback vs cashback?\nWhat currency do bonuses pay in?\nEagle777\n\nPlay top crypto casino games. Deposit crypto, withdraw fast, and play provably fair originals.\n\nPLATFORM\n\nCasino\nPredictions\nRewards\nVIP club\nReferral\n\nSUPPORT\n\nHelp center\nFAQ\nResponsible gaming\n\nLEGAL\n\nTerms of Service\nPrivacy Policy\nAbout\n© 2026 Eagle777\n18+\nPlay responsibly\n\nDaily rewards, free to claim\n\nCheck-in, cashback, VIP perks — sign up to claim\n\nSign up now\nDeposit bonuses\n\n20% Recharge Bonus\n\n20% Recharge Bonus\n\nFirst Deposit\n\nFirst Deposit\nRegular rewards\n\nDaily free GC + EC. Complete a 7-day streak to earn an extra 5.00 EC.\n\nDaily Check-In\n\nEvery bet pays back\n\nRakeback\n\nWeekly cashback based on a percentage of net losses. The higher your VIP level, the higher your cashback rate.\n\nVIP Weekly Cashback\n\nIn addition to the weekly cashback, receive an extra monthly cashback based on your monthly net losses.\n\nVIP Monthly Cashback\n\nOne-time reward each time you level up.\n\nLevel-up reward\n\nGot a code? Claim it\n\nRedeem code\nMore rewards\nVIP Club\nCashback & level-up gifts\nInvite friends\nYou both get rewarded\nTournaments\nClimb boards, win pools\nFAQ\nHow do I claim?\nWhich wallet do rewards go to?\nHow does wagering work?\nDo rewards expire?\nWhy the countdown on the welcome offer?\nRakeback vs cashback?\nWhat currency do bonuses pay in?\n\nDaily free GC + EC. Complete a 7-day streak to earn an extra 5.00 EC.\n\nDaily Check-In\n\nWeekly cashback based on a percentage of net losses. The higher your VIP level, the higher your cashback rate.\n\nVIP Weekly Cashback\n\n",
+    "scraped_at": "2026-08-23T08:22:52.286946+00:00"
   },
   {
     "name": "InterCasino",
@@ -77,23 +77,23 @@
     "status": "success",
     "promos": [],
     "raw_text": "Our casino bonuses\n\nInterCasino — Bonuses and rewards overview. This page explains how bonus balances, wagering requirements, loyalty points, and common restrictions are generally handled on the platform in a neutral, informational way.\n\nBalance handling\n\nInterCasino keeps cash balance and bonus balance separate, and the two are tracked clearly in the account. When you play, cash funds are used first. If cash funds are no longer available, bonus funds may be used according to the rules of the active bonus.\n\nYou can usually withdraw cash funds that are available in your account. However, if you withdraw funds before meeting the relevant bonus conditions, any remaining bonus balance may be forfeited. Because bonus rules can differ by offer, the exact outcome depends on the terms attached to each bonus.\n\nWagering requirements\n\nMany bonuses are subject to wagering requirements before they can be converted into withdrawable cash. This means a player must complete the required wagering activity described in the bonus terms. The amount of wagering required, the games that count, and any betting limits can vary from one offer to another.\n\nA simple example can help explain the process. If a bonus has a wagering requirement, the bonus amount is not immediately available for withdrawal. The player must first complete the required play through the eligible games and within the stated rules. Once the requirement is met, the bonus may become available according to the terms of that specific offer.\n\nBonus types\n\nInterCasino may offer several types of bonuses or rewards, including welcome offers, free spins, spin credits, and loyalty-based rewards. A welcome offer is typically designed for first-time players and may be structured in one or more parts. Free spins and spin credits are generally tied to selected games and may be subject to separate usage conditions.\n\nLoyalty-style rewards are usually linked to ongoing play with cash funds. In some systems, players earn Credits based on activity, account level, and game characteristics. Those Credits may then be exchanged for reward items in a loyalty shop or similar area, depending on the program rules.\n\nLoyalty points\n\nThe rate at which Credits or similar loyalty points are earned can depend on several factors. These may include the amount wagered, the number of wagers placed, the player’s rank or status, and the game’s RTP. In general, a lower RTP game may generate Credits at a different pace than a higher RTP game, but the exact method depends on the program design.\n\nSome loyalty items may be available at a reduced point cost for a limited time. If an item is available in the loyalty shop, it can usually be collected once the required number of Credits has been reached. Time limits may apply, so it is important to review the availability period for each item.\n\nCommon conditions\n\nBonus offers often come with additional conditions beyond wagering requirements. These can include game restrictions, maximum bet limits, expiry dates, and rules about how and when a bonus can be used. If a player does not meet the stated conditions before the expiry date, the bonus may no longer be available.\n\nIt is also important to review the terms for each individual offer. Even if two bonuses look similar, the rules can be different in practice. For that reason, the specific terms should always be checked before using any bonus.\n\nInformational note\n\nThis page is provided for informational purposes only. It does not describe promotional intent or guarantee the availability of any specific offer. For the most accurate details, each bonus should be reviewed against its own terms and conditions.\n\nFAQ\nWhat is the difference between cash balance and bonus balance?\n\nCash balance refers to real funds in the account, while bonus balance refers to funds or value attached to an active bonus.\n\n \n\nDo bonuses always have wagering requirements?\nCan bonus funds be withdrawn directly?\nWhat are Credits?\nWhere can I find the exact rules?\n\nLearn more on the InterCasino about page.",
-    "scraped_at": "2026-08-22T08:21:25.124017+00:00"
+    "scraped_at": "2026-08-23T08:22:59.103827+00:00"
   },
   {
     "name": "BookOfCasino",
     "url": "https://bookofcasino.net/promotions",
-    "status": "success",
+    "status": "geo_blocked",
     "promos": [],
-    "raw_text": "bookofcasino.net\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f0772d5dd66af7\nPerformance and Security by Cloudflare\nPrivacy",
-    "scraped_at": "2026-08-22T08:21:38.431416+00:00"
+    "raw_text": "Site geo-blocked for this location",
+    "scraped_at": "2026-08-23T08:23:14.557967+00:00"
   },
   {
     "name": "VegasDukes",
     "url": "https://vegasdukes.com/promotions",
-    "status": "minimal_content",
+    "status": "success",
     "promos": [],
-    "raw_text": "401 Unauthorized\n",
-    "scraped_at": "2026-08-22T08:21:50.637026+00:00"
+    "raw_text": "vegasdukes.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f8b72f4a8facf0\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-08-23T08:23:25.939863+00:00"
   },
   {
     "name": "Pinnacle Casino",
@@ -101,15 +101,15 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-08-22T08:22:02.864820+00:00"
+    "scraped_at": "2026-08-23T08:23:38.247294+00:00"
   },
   {
     "name": "StarBets",
     "url": "https://starbets.io/bonus",
     "status": "success",
     "promos": [],
-    "raw_text": "Web server is down Error code 521\nVisit cloudflare.com for more information.\n2026-08-22 08:22:06 UTC\nYou\nBrowser\nWorking\nSan Jose\nCloudflare\nWorking\nstarbets.io\nHost\nError\nWhat happened?\n\nThe web server is not returning a connection. As a result, the web page is not displaying.\n\nWhat can I do?\nIf you are a visitor of this website:\n\nPlease try again in a few minutes.\n\nIf you are the owner of this website:\n\nContact your hosting provider letting them know your web server is not responding. Additional troubleshooting information.\n\nCloudflare Ray ID: a2f077c1c92fc8de • Your IP: Click to reveal • Performance & security by Cloudflare",
-    "scraped_at": "2026-08-22T08:22:06.330811+00:00"
+    "raw_text": "starbets.io\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2f8b7796af24ca6\nPerformance and Security by Cloudflare\nPrivacy",
+    "scraped_at": "2026-08-23T08:23:42.242283+00:00"
   },
   {
     "name": "Sikwin",
@@ -117,6 +117,6 @@
     "status": "geo_blocked",
     "promos": [],
     "raw_text": "Site geo-blocked for this location",
-    "scraped_at": "2026-08-22T08:22:11.152028+00:00"
+    "scraped_at": "2026-08-23T08:23:54.473146+00:00"
   }
 ]
